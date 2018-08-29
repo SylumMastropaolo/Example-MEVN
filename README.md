@@ -1,1 +1,1 @@
-WorkoutTracker
+This repo is supposed to be a boilerplate for a project using the MEVN stack
